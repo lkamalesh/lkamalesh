@@ -44,7 +44,7 @@ Hosted on **Azure App Service** (MVC + API)
 # 🤝 **Connect With Me**
 
 <p>
-  <a href="www.linkedin.com/in/kamaleshkloganathan">
+  <a href="https://www.linkedin.com/in/kamaleshkloganathan">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
 </p>
