@@ -36,8 +36,9 @@ Hosted on **Azure App Service** (MVC + API)
 # 📚 **What I'm Learning Right Now**
 
 - **C# & ASP.NET Core (Advanced topics)**  
-- **Azure App Service, SQL, Storage Accounts**  
-- **Design Patterns & Clean Architecture**  
+- **Azure Cloud**  
+- **Data Structure & Algorithms (C#)**
+- **German Language (A2)**  
 
 ---
 
