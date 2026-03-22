@@ -1,9 +1,11 @@
 # **Hi, I'm Kamalesh**  
 
-### **.NET Developer • ASP.NET Core • MVC • Web API • Azure**
+### **.NET Developer • ASP.NET Core • Web API • Azure**
 
-I build clean, reliable, and practical applications using **C#, ASP.NET Core, MVC, Web API, and SQL Server**.  
-I enjoy solving real-world problems and continuously improving my backend and cloud skills.
+I build **clean, reliable backend applications** using  
+**C#, ASP.NET Core, MVC, Web API, and SQL Server**.
+
+I focus on writing **maintainable code, structured architecture, and practical solutions** while continuously improving my backend and cloud skills.
 
 ---
 
@@ -13,32 +15,50 @@ I enjoy solving real-world problems and continuously improving my backend and cl
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,jquery,sqlserver,azure,git,github,visualstudio,postman" height="48"/>
 </p>
 
+### 🧠 **Core Skills**
+- ASP.NET Core (MVC & Web API)
+- Entity Framework Core (EF Core)
+- REST API Design
+- N-Tier Architecture
+- Authentication & Authorization (JWT)
+- Azure App Service Deployment
+
 ---
 
-# 📌 **Featured Project**
+# 📌 **Latest Project**
 
-## 🔧 **AutoVerse — Automobile Management System**
+## 🚀 **PayZen - AI Payment Risk System**
 
-A structured ASP.NET Core MVC + Web API project for managing vehicles, models, pricing, and admin workflows.  
+A backend system that evaluates transactions using **rule-based logic** to identify potentially risky activity.
 
-Built with **C#, ASP.NET Core, EF Core, SQL Server**, and deployed on **Microsoft Azure App Service**.
+### 🔹 Key Features:
+- Rule-based transaction evaluation (amount, country, payment method)
+- Configurable risk rules engine
+- Clean API design with structured layers
+- Azure-hosted backend
 
-**🔗 GitHub Repo:**  
+### 🛠 Tech Used:
+C#, ASP.NET Core Web API, EF Core, SQL Server, Azure
 
-https://github.com/lkamalesh/AutoVerse-AMS  
-
-**🌐 Live Deployment:**  
-
-Hosted on **Azure App Service** (MVC + API)
+🔗 **Live Demo:** *(Add your frontend URL here)*  
+🔗 **API Base URL:** *(Add your API URL here)*  
 
 ---
 
 # 📚 **What I'm Learning Right Now**
 
-- **C# & ASP.NET Core (Advanced topics)**  
-- **Azure Cloud**  
-- **Data Structure & Algorithms (C#)**
-- **German Language (A2)**  
+- Advanced ASP.NET Core  
+- Azure Cloud  
+- Data Structures & Algorithms   
+- System Design fundamentals  
+
+---
+
+# 🧠 **What I'm Focused On**
+
+- Writing clean and maintainable backend code  
+- Improving problem-solving skills  
+- Building real-world projects with solid architecture  
 
 ---
 
@@ -49,7 +69,3 @@ Hosted on **Azure App Service** (MVC + API)
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
 </p>
-
----
-
-
